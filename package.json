@@ -2,7 +2,7 @@
   "name": "node-with-passport-js",
   "version": "1.0.0",
   "description": "Node-with-passport-js ===================== Building a complete authentication app with login, register and access control using Node.js, Express, Passport and Mongoose.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
